@@ -1,1 +1,1 @@
-"# Drag-and-Shoot" 
+"# Drag-and-Shoot Script" 
